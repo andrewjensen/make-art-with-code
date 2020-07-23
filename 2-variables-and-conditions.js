@@ -1,8 +1,13 @@
 // Tasks:
 //
 // - Handle top-to-bottom movement too
-// - Every time the circle hits a wall, choose a random fill color
-//   - Colors to choose from: (TODO: pick them)
+// - Every time the circle hits a wall, choose a random fill color from these options:
+//   - "#FFBE0B"
+//   - "#FB5607"
+//   - "#FF006E"
+//   - "#73C31D"
+//   - "#8338EC"
+//   - "#3A86FF"
 
 let MOVEMENT_AMOUNT = 8;
 
