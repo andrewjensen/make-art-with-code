@@ -14,10 +14,11 @@
   - Need a dictionary
   - Practice speaking!
 - Follow-along sketches (50 min)
-  - Part 1: Shapes and Colors (10 min)
-  - Part 2: Variables and Conditions (15 min)
-  - Part 3: Loops and Functions (15 min)
-  - Part 4: Working with Data (10 min)
+  - Start by setting up an account in the [p5js editor](https://editor.p5js.org)
+  - [Part 1: Shapes and Colors](https://editor.p5js.org/andrewjensen/sketches/dIF3oGUnw) (10 min)
+  - [Part 2: Variables and Conditions](https://editor.p5js.org/andrewjensen/sketches/3DA9qnbq1) (15 min)
+  - [Part 3: Loops and Functions](https://editor.p5js.org/andrewjensen/sketches/xNAnwxv22) (15 min)
+  - [Part 4: Working with Data](https://editor.p5js.org/andrewjensen/sketches/3T_K7TbuH) (10 min)
 
 ## Resources
 
