@@ -26,6 +26,7 @@ Learning:
 
 - [Learn Javascript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript), from the Mozilla Developer Network
 - [Flowchart for a for-loop](https://cdn.programiz.com/sites/tutorial2program/files/c-for-loop.jpg)
+- [p5js Reference](https://p5js.org/reference/)
 
 Making art:
 
