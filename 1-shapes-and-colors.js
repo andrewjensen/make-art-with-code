@@ -16,18 +16,18 @@ function setup() {
 }
 
 function draw() {
-  background("#001524");
+  background("#001524"); // Dark blue
 
-  fill("#ff7d00");
+  fill("#ff7d00"); // Orange
   rect(100, 100, 100, 100);
 
-  fill("#ffecd1");
+  fill("#ffecd1"); // Beige
   ellipse(200, 200, 100, 100);
 
-  fill("#15616d");
+  fill("#15616d"); // Medium blue
   beginShape();
-  vertex(250, 350);
-  vertex(300, 250);
-  vertex(350, 350);
+  vertex(250, 350); // Bottom-left point
+  vertex(300, 250); // Top-center point
+  vertex(350, 350); // Bottom-right point
   endShape(CLOSE);
 }
